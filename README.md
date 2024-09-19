@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @amjadh27
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on web designing
+- 👋 Hi, I’m Amjad
 - 📫 How to reach me via mailing
 
 <!---
