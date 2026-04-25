@@ -217,18 +217,6 @@ The research focuses on protecting SDN switches from low-rate flow-table overflo
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Amjad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amjadh27&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amjadh27&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## 🎯 Career Interests
 
 I am interested in opportunities related to:
