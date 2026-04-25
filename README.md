@@ -225,8 +225,6 @@ The research focuses on protecting SDN switches from low-rate flow-table overflo
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amjadh27&layout=compact&theme=tokyonight)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amjadh27&theme=tokyo-night)
-
 </div>
 
 ---
