@@ -31,22 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=amjadh27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E75B6&icon_color=2E7D32&text_color=ffffff" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=amjadh27&theme=tokyonight&hide_border=true&background=0D1117&ring=2E75B6&fire=2E7D32&currStreakLabel=2E75B6" />
-
-<br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amjadh27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E75B6&text_color=ffffff&langs_count=8" />
-<img height="180" src="https://github-profile-trophy.vercel.app/?username=amjadh27&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3&margin-w=10&margin-h=10" />
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -206,12 +190,6 @@ Moving SDN switches from **reactive attack handling** to **proactive admission c
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amjadh27&theme=tokyo-night&bg_color=0D1117&color=2E75B6&line=2E7D32&point=ffffff&hide_border=true&area=true" width="100%" />
-
-<br/>
 
 ### 💡 *"Build infrastructure that makes change outcomes predictable, not hopeful."*
 
